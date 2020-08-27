@@ -8,7 +8,7 @@ import sys
 step_url = "https://puzzle.gztime.cc/api/maze/step"
 reset_url = "https://puzzle.gztime.cc/api/maze/reset"
 head = {
-    "cookie": "_ga=GA1.2.153189809.1598319485; _gid=GA1.2.1716356685.1598319485; token=db827d8433ac34efe91731c520018274; Hm_lvt_911fab4aa0da17e3360e19c9727a4684=1598336219,1598337663,1598372622,1598407833; Hm_lpvt_911fab4aa0da17e3360e19c9727a4684=1598441691; _gat_gtag_UA_175500859_1=1"
+    "cookie": "" # 这里填你自己的cookie
 }
 
 
